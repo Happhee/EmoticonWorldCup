@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Emoticon-WorldCup/static/css/main.7f80e0fb.css",
+    "main.js": "/Emoticon-WorldCup/static/js/main.b5871e41.js",
+    "static/js/787.77d4b1d9.chunk.js": "/Emoticon-WorldCup/static/js/787.77d4b1d9.chunk.js",
+    "static/media/Jua-Regular.ttf": "/Emoticon-WorldCup/static/media/Jua-Regular.bb8909a47f60980f5988.ttf",
+    "static/media/서달이.gif": "/Emoticon-WorldCup/static/media/서달이.8f46b83442aba35fe6ee.gif",
+    "static/media/망상토끼.gif": "/Emoticon-WorldCup/static/media/망상토끼.08c71333decb439d4e15.gif",
+    "static/media/몰티즈.gif": "/Emoticon-WorldCup/static/media/몰티즈.6b80b78615c9ba07a127.gif",
+    "static/media/앙꼬.gif": "/Emoticon-WorldCup/static/media/앙꼬.9dcdbfb72a69920b04e8.gif",
+    "static/media/슈야.gif": "/Emoticon-WorldCup/static/media/슈야.7808a52810e69485800c.gif",
+    "static/media/푸루와배코.gif": "/Emoticon-WorldCup/static/media/푸루와배코.904db5025fe406cc3ad1.gif",
+    "static/media/세숑.gif": "/Emoticon-WorldCup/static/media/세숑.b8e79f6df5054e3d9484.gif",
+    "static/media/호두두.gif": "/Emoticon-WorldCup/static/media/호두두.03c4452ecb3ba2ee278a.gif",
+    "static/media/메인옴팡이.gif": "/Emoticon-WorldCup/static/media/메인옴팡이.97c222a9bddfa2375978.gif",
+    "static/media/춘식이.gif": "/Emoticon-WorldCup/static/media/춘식이.1d6767e26df66982fa7e.gif",
+    "static/media/옴팡이.gif": "/Emoticon-WorldCup/static/media/옴팡이.ed7937116a4b13aa85d8.gif",
+    "static/media/엥.gif": "/Emoticon-WorldCup/static/media/엥.aeff1f1896262c8337b7.gif",
+    "static/media/머멍이.gif": "/Emoticon-WorldCup/static/media/머멍이.c3f2d022678d7bbda0b8.gif",
+    "static/media/찹쌀하마.gif": "/Emoticon-WorldCup/static/media/찹쌀하마.1a07a959ecf6a43a9dc1.gif",
+    "static/media/햄떡이.gif": "/Emoticon-WorldCup/static/media/햄떡이.a297c907a43900ad5a6a.gif",
+    "static/media/찌미.gif": "/Emoticon-WorldCup/static/media/찌미.f73863c263fdda758c33.gif",
+    "static/media/right.jpg": "/Emoticon-WorldCup/static/media/right.ebbaa023bc44441185ce.jpg",
+    "static/media/left.jpg": "/Emoticon-WorldCup/static/media/left.6ed1c8eb881eaac3d379.jpg",
+    "static/media/포실토끼.gif": "/Emoticon-WorldCup/static/media/포실토끼.bd9741d1dc520a4f006a.gif",
+    "index.html": "/Emoticon-WorldCup/index.html",
+    "main.7f80e0fb.css.map": "/Emoticon-WorldCup/static/css/main.7f80e0fb.css.map",
+    "main.b5871e41.js.map": "/Emoticon-WorldCup/static/js/main.b5871e41.js.map",
+    "787.77d4b1d9.chunk.js.map": "/Emoticon-WorldCup/static/js/787.77d4b1d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f80e0fb.css",
+    "static/js/main.b5871e41.js"
+  ]
+}
