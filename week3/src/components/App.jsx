@@ -10,7 +10,7 @@ import ResultContent from "./ResultContent";
 const { MainHeader } = WorldCupHeader;
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <ThemeProvider theme={theme}>
         <GlobalStyle />
         <MainHeader />
